@@ -3,7 +3,7 @@
         <div class="container-fluid">
             {{-- Logo DC --}}
             <a class="navbar-brand" href="#">
-                <img src="{{ Vite::asset('resources/img/dc-comics-logo.svg') }}" alt="DC Comics" width="60">
+                <img src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="DC Comics" width="60">
             </a>
 
             {{-- Bottone hamburger per mobile --}}
